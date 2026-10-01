@@ -1,0 +1,5 @@
+[
+  {"title":"Cloud Backup Standard","source_uri":"kb://cloud-backup-standard","content":"Enterprise production workloads must use encrypted backups. Standard backup retention is 35 days for production systems unless an approved application policy specifies a longer period. Critical regulated workloads may require extended retention based on legal or regulatory obligations."},
+  {"title":"Cloud Access Control Standard","source_uri":"kb://cloud-access-control","content":"Privileged cloud access must use role-based access control, strong authentication and least privilege. Administrative access should be time-bound where the identity platform supports privileged access management. Access activity must be auditable."},
+  {"title":"RAG Governance Standard","source_uri":"kb://rag-governance","content":"Enterprise RAG applications should provide source citations, maintain audit records for material user actions, evaluate retrieval quality, protect confidential information, and prevent model responses from being treated as authoritative when source evidence is insufficient."}
+]
